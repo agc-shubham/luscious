@@ -1,0 +1,17 @@
+  .display-4{
+      	font-family: 'Caveat Brush', cursive;
+      }	
+       .navbar-brand{
+       	font-family: 'Caveat Brush', cursive;
+      }	
+      .container{
+      	margin-top: 15px;
+      	border-top: 5px;
+      }
+      .jumbotron{
+      	background-image: url(images/jumbotron.jpg);
+      	color: white;
+      }
+      #navbarSupportedContent{
+      	font-family:  'Aleo', serif;
+      }
